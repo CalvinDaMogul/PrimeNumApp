@@ -1,0 +1,11 @@
+C:\Users\caljf\Documents\PrimeNumApp2\bin\Debug\netcoreapp2.1\PrimeNumApp2.deps.json
+C:\Users\caljf\Documents\PrimeNumApp2\bin\Debug\netcoreapp2.1\PrimeNumApp2.runtimeconfig.json
+C:\Users\caljf\Documents\PrimeNumApp2\bin\Debug\netcoreapp2.1\PrimeNumApp2.runtimeconfig.dev.json
+C:\Users\caljf\Documents\PrimeNumApp2\bin\Debug\netcoreapp2.1\PrimeNumApp2.dll
+C:\Users\caljf\Documents\PrimeNumApp2\bin\Debug\netcoreapp2.1\PrimeNumApp2.pdb
+C:\Users\caljf\Documents\PrimeNumApp2\obj\Debug\netcoreapp2.1\PrimeNumApp2.csprojAssemblyReference.cache
+C:\Users\caljf\Documents\PrimeNumApp2\obj\Debug\netcoreapp2.1\PrimeNumApp2.csproj.CoreCompileInputs.cache
+C:\Users\caljf\Documents\PrimeNumApp2\obj\Debug\netcoreapp2.1\PrimeNumApp2.AssemblyInfoInputs.cache
+C:\Users\caljf\Documents\PrimeNumApp2\obj\Debug\netcoreapp2.1\PrimeNumApp2.AssemblyInfo.cs
+C:\Users\caljf\Documents\PrimeNumApp2\obj\Debug\netcoreapp2.1\PrimeNumApp2.dll
+C:\Users\caljf\Documents\PrimeNumApp2\obj\Debug\netcoreapp2.1\PrimeNumApp2.pdb
